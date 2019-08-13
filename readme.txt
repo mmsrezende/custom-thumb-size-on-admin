@@ -1,5 +1,5 @@
 === Custom Thumbnail Size On Admin ===
-Contributors: rezendemarcos
+Contributors: rezehnde
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RJD5395AA47U&source=url
 Tags: thumbnail, media, admin
 Requires at least: 4.0

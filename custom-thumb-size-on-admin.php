@@ -4,7 +4,7 @@ Plugin Name: Custom Thumbnail Size On Admin
 Description: Triple the thumbnail size on admin area
 Version: 1.0
 Author: Marcos Rezende
-Author URI: https://www.linkedin.com/in/rezendemarcos/
+Author URI: https://www.linkedin.com/in/rezehnde/
 */
 
 add_action('admin_head', 'gugeler_triple_thumbnail_size_on_admin');
